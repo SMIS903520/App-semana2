@@ -14,7 +14,6 @@ const removeItem=document.querySelector('button#removeItem');
 
 
 
-
 //mostrar y ocultar lista
 hide.addEventListener('click',()=>{
     if(listDiv.style.display==='none'){
